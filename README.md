@@ -44,9 +44,3 @@ Pig is a simple and fun dice game often used to teach probability and strategy. 
 - Holding with a moderate turn score (e.g., 15–20 points) can reduce the risk of rolling a 1 and losing the turn's points.
 
 ---
-
-## Fun Variations
-- **Custom Target Score:** Change the target score to make the game longer or shorter.
-- **Multiple Dice:** Use multiple dice to increase complexity and strategic options.
-
-Enjoy playing Pig Dice Game with friends and family!
